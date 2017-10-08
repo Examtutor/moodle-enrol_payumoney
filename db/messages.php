@@ -17,8 +17,8 @@
 /**
  * Defines message providers (types of message sent) for the Stripe enrolment plugin.
  *
- * @package    enrol_stripepayment
- * @copyright  2015 Dualcube, Arkaprava Midya, Parthajeet Chakraborty
+ * @package    enrol_payumoney
+ * @copyright  2017 Exam Tutor, Venkatesan R Iyengar
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
